@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="middle">Hello! Hi! Wassup! Yo! konnichiwa!</p>
 
-<p align="middle">### Skills</p>
+### Skills
 
 
 <p align="middle">
