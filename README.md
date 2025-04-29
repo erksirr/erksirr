@@ -46,5 +46,5 @@
   </a>
 </p>
 
-<a href="https://www.github.com/erksirr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erksirr&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.github.com/erksirr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erksirr&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a>
 
