@@ -46,7 +46,7 @@
   </a>
 </p>
 
-<div class="flex">
+<div class="flex",style="font-size: 20px;">
   <div>
     <a href="http://www.github.com/erksirr">
       <img src="https://github-readme-stats.vercel.app/api?username=erksirr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true&show_icons=true" alt="erksirr's GitHub stats" width="400" height="200"/>
