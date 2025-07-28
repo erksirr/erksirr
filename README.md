@@ -4,11 +4,9 @@
 <p align="middle">Hello! Hi! Wassup! Yo! konnichiwa!</p>
 
 ### Skills
-
+### Languages and Tools:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=c,dart,java,js,ts,py,html,css,vite,react,vue,angular,spring,express,flutter,mongodb,mysql,postgres,docker,nodejs,figma" />
 </p>
 
 <div class="flex">
