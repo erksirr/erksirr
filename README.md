@@ -4,8 +4,7 @@
 <p align="middle">Hello! Hi! Wassup! Yo! konnichiwa!</p>
 
 I am a passionate and dedicated Computer
-Engineering student at KMITL. I want to be a great
-developer, so I want to develop my skills in web and
+Engineering student at KMITL. I want to develop my skills in web and
 mobile applications.
 
 ### Languages and Tools:
