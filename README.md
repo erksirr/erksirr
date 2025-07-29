@@ -8,12 +8,10 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,dart,java,js,ts,py,html,css,vite,react,vue,angular,spring,express,flutter,mongodb,mysql,postgres,docker,nodejs,figma" />
 </p>
-<div class="flex flex-wrap gap-4">
-  <div class="flex flex-col gap-2">
-    <a href="https://www.github.com/erksirr">
-      <img src="https://github-readme-stats.vercel.app/api?username=erksirr&show_icons=true&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true" alt="erksirr's GitHub stats" />
-    </a>
-  </div>
+<div class="flex flex-row flex-wrap gap-4">
+  <a href="https://www.github.com/erksirr">
+    <img src="https://github-readme-stats.vercel.app/api?username=erksirr&show_icons=true&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true" alt="erksirr's GitHub stats" />
+  </a>
   <a href="https://www.github.com/erksirr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erksirr&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
   </a>
