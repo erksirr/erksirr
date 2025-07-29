@@ -6,7 +6,9 @@
 I am a passionate and dedicated Computer
 Engineering student at KMITL. I want to develop my skills in web and
 mobile applications.
-
+- 🌍  Based in **Bangkok, Thailand**  
+- ✉️  Contact me: [siraphops1004@gmail.com](mailto:siraphops1004@gmail.com)  
+- 🧠  Currently learning: **Java Spring Boot**
 ### Languages and Tools:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,dart,java,js,ts,py,html,css,vite,react,vue,angular,spring,express,flutter,mongodb,mysql,postgres,docker,nodejs,figma" />
