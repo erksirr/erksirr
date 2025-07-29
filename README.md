@@ -3,7 +3,11 @@
 
 <p align="middle">Hello! Hi! Wassup! Yo! konnichiwa!</p>
 
-### Skills
+I am a passionate and dedicated Computer
+Engineering student at KMITL. I want to be a great
+developer, so I want to develop my skills in web and
+mobile applications.
+
 ### Languages and Tools:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,dart,java,js,ts,py,html,css,vite,react,vue,angular,spring,express,flutter,mongodb,mysql,postgres,docker,nodejs,figma" />
