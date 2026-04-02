@@ -17,7 +17,7 @@ mobile applications.
   <a href="https://www.github.com/erksirr">
     <img src="https://streak-stats.demolab.com?user=erksirr&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=D4F6F8&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" alt="GitHub Streak" />
   </a>
-  <a href="https://www.github.com/erksirr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erksirr&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+   <a href="https://www.github.com/erksirr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erksirr&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
