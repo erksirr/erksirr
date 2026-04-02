@@ -13,9 +13,9 @@ mobile applications.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,dart,java,js,ts,py,html,css,vite,react,vue,angular,spring,express,flutter,mongodb,mysql,postgres,docker,nodejs,figma" />
 </p>
-<div class="flex flex-row flex-wrap gap-8">
+<div style="display: flex; flex-wrap: wrap; gap: 32px;">
   <a href="https://www.github.com/erksirr">
-    <img src="https://github-readme-stats.vercel.app/api?username=erksirr&show_icons=true&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true" alt="erksirr's GitHub stats" />
+    <img src="https://streak-stats.demolab.com?user=erksirr&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=D4F6F8&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" alt="GitHub Streak" />
   </a>
   <a href="https://www.github.com/erksirr">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erksirr&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=D4F6F8&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
